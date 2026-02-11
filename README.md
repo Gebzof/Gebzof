@@ -4,7 +4,7 @@ Hello im Gabriel, a frensh student of 42 Paris, im a developer in language and c
 Im sharing here my professional et personnal work i made, my mane languase for the moment is C, but i want to learn more about c++, Python, and js(and framework).
 on my free time im playing video game, chess and do some sport(climbing, thai boxe).
 
-##  SOCIAL
+## SOCIAL
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pichon-2a1612207/)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tonsite.com) // qund j'ai mon portfolio. 
 [![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ton-username/ton-repo/raw/main/CV_Prenom_Nom.pdf) pdf en cv
@@ -29,6 +29,14 @@ on my free time im playing video game, chess and do some sport(climbing, thai bo
 </div>
 
 ## GITHUB STAT
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gebzof&layout=compact&langs_count=6&theme=dark"alt="Langages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gebzof&show_icons=true&theme=dark" alt="Stats"/>
+  </p>
+</div>
+
 <!--
 **Gebzof/Gebzof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
