@@ -5,7 +5,7 @@ Im sharing here my professional et personnal work i made, my mane languase for t
 on my free time im playing video game, chess and do some sport(climbing, thai boxe).
 
 ##  social
-
+[![LikedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pichon-2a1612207/)
 
 <!--
 **Gebzof/Gebzof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
