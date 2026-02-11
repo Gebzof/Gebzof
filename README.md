@@ -24,6 +24,7 @@ on my free time im playing video game, chess and do some sport(climbing, thai bo
 ![Static Badge](https://img.shields.io/badge/Code-Debian-informational?logo=debian&logoColor=white&color=A81D33)
 ![Static Badge](https://img.shields.io/badge/Code-Ubuntu-informational?logo=ubuntu&logoColor=white&color=E95420)
 ![Static Badge](https://img.shields.io/badge/Code-Unity-informational?logo=unity&logoColor=white&color=000000)
+![Bash Badge](https://img.shields.io/badge/Code-Bash-informational?logo=gnu-bash&logoColor=white&color=4EAA25)
 
 </div>
 
