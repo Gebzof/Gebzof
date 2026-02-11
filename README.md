@@ -1,4 +1,11 @@
-## Hi there 👋
+## ABOUT ME :
+
+Hello im gebz, a frensh student of 42 Paris, im a new developper in language and currently learning c/c++ languages
+Im sharing here my professional et personnal work i made, my mane languase for the moment is C, but i want to learn more about c++, Python, and js(and framework).
+on my free time im playing video game, chess and do some sport(climbing, thai boxe).
+
+##  social
+
 
 <!--
 **Gebzof/Gebzof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
