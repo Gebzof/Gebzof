@@ -13,17 +13,20 @@ on my free time im playing video game, chess and do some sport(climbing, thai bo
 ## CURENTLY WORKIN ON
 <a align ="center" href="https://github.com/LucLgdm/Transcendence">Transcendance</a>
 ## TECHNOLOGIE & TOOLS
-<div align ="cente"> 
-![Static Badge](https://img.shields.io/badge/Code-C-informational?logo=c&logoColor=white&color=00599C) \
-![Static Badge](https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&logoColor=white&color=00599C)\
-![Static Badge](https://img.shields.io/badge/Code-TypeScript-informational?logo=typescript&logoColor=white&color=3178C6)\
-![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=black&color=F7DF1E)\
-![Static Badge](https://img.shields.io/badge/Code-HTML-informational?logo=html5&logoColor=white&color=E34F26)\
-![Static Badge](https://img.shields.io/badge/Code-Docker-informational?logo=docker&logoColor=white&color=2496ED)\
-![Static Badge](https://img.shields.io/badge/Code-Debian-informational?logo=debian&logoColor=white&color=A81D33)\
-![Static Badge](https://img.shields.io/badge/Code-Ubuntu-informational?logo=ubuntu&logoColor=white&color=E95420)\
+<div align="center">
+
+![Static Badge](https://img.shields.io/badge/Code-C-informational?logo=c&logoColor=white&color=00599C)
+![Static Badge](https://img.shields.io/badge/Code-C++-informational?logo=cplusplus&logoColor=white&color=00599C)
+![Static Badge](https://img.shields.io/badge/Code-TypeScript-informational?logo=typescript&logoColor=white&color=3178C6)
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=black&color=F7DF1E)
+![Static Badge](https://img.shields.io/badge/Code-HTML-informational?logo=html5&logoColor=white&color=E34F26)
+![Static Badge](https://img.shields.io/badge/Code-Docker-informational?logo=docker&logoColor=white&color=2496ED)
+![Static Badge](https://img.shields.io/badge/Code-Debian-informational?logo=debian&logoColor=white&color=A81D33)
+![Static Badge](https://img.shields.io/badge/Code-Ubuntu-informational?logo=ubuntu&logoColor=white&color=E95420)
 ![Static Badge](https://img.shields.io/badge/Code-Unity-informational?logo=unity&logoColor=white&color=000000)
+
 </div>
+
 ## GITHUB STAT
 <!--
 **Gebzof/Gebzof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
